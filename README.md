@@ -26,8 +26,8 @@ I build native UI and low-level tools.
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.shion.dev/api?username=ff0l&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=1800" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top languages" />
+<img align="top" src="https://github-readme-stats.shion.dev/api?username=ff0l&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=1800" alt="GitHub stats" />
+<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top languages" />
 
 <br/>
 
