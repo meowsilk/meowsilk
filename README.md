@@ -10,12 +10,15 @@ I build native UI and low-level tools.
 
 <img src="assets/cpp.svg" width="36" height="36" alt="C++" />
 &nbsp;&nbsp;&nbsp;
-<img src="assets/imgui.svg" width="36" height="36" alt="ImGui" />
+<img src="assets/imgui.svg#gh-dark-mode-only" width="36" height="36" alt="ImGui" />
+<img src="assets/imgui-light.svg#gh-light-mode-only" width="36" height="36" alt="ImGui" />
 &nbsp;&nbsp;&nbsp;
-<img src="assets/windows.svg" width="36" height="36" alt="Windows internals" />
+<img src="assets/windows.svg#gh-dark-mode-only" width="36" height="36" alt="Windows internals" />
+<img src="assets/windows-light.svg#gh-light-mode-only" width="36" height="36" alt="Windows internals" />
 &nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/ff0l">
-  <img src="assets/discord.svg" width="36" height="36" alt="Discord" />
+  <img src="assets/discord.svg#gh-dark-mode-only" width="36" height="36" alt="Discord" />
+  <img src="assets/discord-light.svg#gh-light-mode-only" width="36" height="36" alt="Discord" />
 </a>
 
 <br/><br/>
@@ -24,25 +27,22 @@ I build native UI and low-level tools.
 
 <br/>
 
-<img height="150" src="https://github-readme-stats.shion.dev/api?username=ff0l&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&ring_color=8B949E&cache_seconds=1800" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&cache_seconds=1800" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=ff0l&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&ring_color=8B949E&cache_seconds=1800#gh-dark-mode-only" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=ff0l&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&bg_color=FFFFFF&title_color=1F2328&icon_color=59636E&text_color=59636E&ring_color=59636E&cache_seconds=1800#gh-light-mode-only" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&cache_seconds=1800#gh-dark-mode-only" alt="Top languages" />
+<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=59636E&cache_seconds=1800#gh-light-mode-only" alt="Top languages" />
 
 <br/>
 
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/ff0l/PatchGuard-Blocker">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=PatchGuard-Blocker&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800" alt="PatchGuard-Blocker" />
-      </a>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/ff0l/Custom-Shader-Pack">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=Custom-Shader-Pack&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800" alt="Custom-Shader-Pack" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ff0l/PatchGuard-Blocker">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=PatchGuard-Blocker&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800#gh-dark-mode-only" alt="PatchGuard-Blocker" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=PatchGuard-Blocker&hide_border=true&bg_color=FFFFFF&title_color=1F2328&icon_color=59636E&text_color=59636E&cache_seconds=1800#gh-light-mode-only" alt="PatchGuard-Blocker" />
+</a>
+&nbsp;
+<a href="https://github.com/ff0l/Custom-Shader-Pack">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=Custom-Shader-Pack&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800#gh-dark-mode-only" alt="Custom-Shader-Pack" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=Custom-Shader-Pack&hide_border=true&bg_color=FFFFFF&title_color=1F2328&icon_color=59636E&text_color=59636E&cache_seconds=1800#gh-light-mode-only" alt="Custom-Shader-Pack" />
+</a>
 
 <br/>
 
@@ -54,6 +54,6 @@ I build native UI and low-level tools.
 
 <br/>
 
-<img src="https://hits.sh/github.com/ff0l.svg?style=flat&label=Profile%20views&color=8b949e" alt="Profile views" />
+<img src="https://hits.sh/github.com/ff0l.svg?style=flat&label=Profile%20views&color=8b949e&extraCount=400" alt="Profile views" />
 
 </div>
