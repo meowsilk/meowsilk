@@ -29,13 +29,20 @@ I build native UI and low-level tools.
 
 <br/>
 
-<a href="https://github.com/ff0l/PatchGuard-Blocker">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=PatchGuard-Blocker&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="PatchGuard-Blocker" />
-</a>
-&nbsp;
-<a href="https://github.com/ff0l/Custom-Shader-Pack">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=custom-shader-pack&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="custom-shader-pack" />
-</a>
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/ff0l/PatchGuard-Blocker">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=PatchGuard-Blocker&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800" alt="PatchGuard-Blocker" />
+      </a>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/ff0l/Custom-Shader-Pack">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=Custom-Shader-Pack&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&cache_seconds=1800" alt="Custom-Shader-Pack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -47,6 +54,6 @@ I build native UI and low-level tools.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ff0l&label=Profile%20views&color=8B949E&style=flat" alt="Profile views" />
+<img src="https://hits.sh/github.com/ff0l.svg?style=flat&label=Profile%20views&color=8b949e" alt="Profile views" />
 
 </div>
