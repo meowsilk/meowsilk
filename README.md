@@ -34,7 +34,7 @@ I build native UI and low-level tools.
 </a>
 &nbsp;
 <a href="https://github.com/ff0l/Custom-Shader-Pack">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=imgui-menu&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="imgui-menu" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l&repo=custom-shader-pack&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E" alt="custom-shader-pack" />
 </a>
 
 <br/>
