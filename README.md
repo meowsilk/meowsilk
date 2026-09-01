@@ -41,12 +41,6 @@ I build native UI and low-level tools.
 
 <br/>
 
-<p>
-  <a href="https://github.com/ff0l/roblox-dumper">roblox-dumper</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/ff0l/eft-kd-dropper">eft-kd-dropper</a>
-</p>
-
 <br/>
 
 <img src="https://hits.sh/github.com/ff0l.svg?style=flat&label=Profile%20views&color=8b949e&extraCount=400" alt="Profile views" />
