@@ -22,7 +22,7 @@ I build native UI and low-level tools.
 
 <br/><br/>
 
-**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; **reverse** &nbsp;·&nbsp; Discord `ff0l`
+**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; **reverse** &nbsp;·&nbsp; Discord `ff0ll`
 
 <br/>
 
