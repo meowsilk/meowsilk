@@ -43,6 +43,6 @@ I write native tools and the pieces around them.
 
 <br/>
 
-<img src="https://hits.sh/github.com/ff0l1.svg?style=flat&label=Profile%20views&color=8b949e&extraCount=400" alt="Profile views" />
+<img src="https://hits.sh/github.com/ff0l1/profile.svg?style=flat&label=views&color=8b949e" alt="Profile views" />
 
 </div>
