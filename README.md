@@ -22,7 +22,7 @@ I write native tools and the pieces around them.
 
 <br/><br/>
 
-**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; Discord `ff0ll`
+**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; Discord `ff0l1`
 
 <br/>
 
