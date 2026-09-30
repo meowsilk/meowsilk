@@ -32,11 +32,11 @@ I write native tools and the pieces around them.
 <br/>
 
 <a href="https://github.com/ff0l1/roblox-external">
-  <img src="https://opengraph.githubassets.com/2/ff0l1/roblox-external" width="400" alt="roblox-external" />
+  <img src="https://opengraph.githubassets.com/2/ff0l1/roblox-external" width="250" alt="roblox-external" />
 </a>
 &nbsp;
 <a href="https://github.com/ff0l1/patchguard-blocker">
-  <img src="https://opengraph.githubassets.com/2/ff0l1/patchguard-blocker" width="400" alt="patchguard-blocker" />
+  <img src="https://opengraph.githubassets.com/2/ff0l1/patchguard-blocker" width="250" alt="patchguard-blocker" />
 </a>
 
 <br/>
