@@ -32,11 +32,11 @@ I write native tools and the pieces around them.
 <br/>
 
 <a href="https://github.com/ff0l1/patchguard-blocker">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=ff0l1&repo=patchguard-blocker&hide_border=true&theme=transparent&cache_seconds=1800" alt="patchguard-blocker" />
+  <img src="https://opengraph.githubassets.com/1/ff0l1/patchguard-blocker" width="400" alt="patchguard-blocker" />
 </a>
 &nbsp;
 <a href="https://github.com/ff0l1/shader-pack">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=ff0l1&repo=shader-pack&hide_border=true&theme=transparent&cache_seconds=1800" alt="shader-pack" />
+  <img src="https://opengraph.githubassets.com/1/ff0l1/shader-pack" width="400" alt="shader-pack" />
 </a>
 
 <br/>
