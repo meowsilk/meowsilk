@@ -31,8 +31,8 @@ I write native tools and the pieces around them.
 
 <br/>
 
-<a href="https://github.com/ff0l1/patchguard">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l1&repo=patchguard&hide_border=true&theme=transparent&cache_seconds=1800" alt="patchguard" />
+<a href="https://github.com/ff0l1/patchguard-blocker">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l1&repo=patchguard-blocker&hide_border=true&theme=transparent&cache_seconds=1800" alt="patchguard-blocker" />
 </a>
 &nbsp;
 <a href="https://github.com/ff0l1/shader-pack">
