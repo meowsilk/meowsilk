@@ -26,17 +26,17 @@ I write native tools and the pieces around them.
 
 <br/>
 
-<img align="top" src="https://github-readme-stats.shion.dev/api?username=ff0l1&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=1800" alt="GitHub stats" />
-<img align="top" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ff0l1&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l1&hide_border=true&theme=transparent&cache_seconds=1800" alt="Top languages" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=ff0l1&show_icons=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true&theme=transparent&cache_seconds=1" alt="GitHub stats" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ff0l1&layout=compact&langs_count=5&size_weight=1&count_weight=0&exclude_repo=ff0l1&hide_border=true&theme=transparent&cache_seconds=1" alt="Top languages" />
 
 <br/>
 
 <a href="https://github.com/ff0l1/patchguard-blocker">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l1&repo=patchguard-blocker&hide_border=true&theme=transparent&cache_seconds=1800" alt="patchguard-blocker" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ff0l1&repo=patchguard-blocker&hide_border=true&theme=transparent&cache_seconds=1" alt="patchguard-blocker" />
 </a>
 &nbsp;
 <a href="https://github.com/ff0l1/shader-pack">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=ff0l1&repo=shader-pack&hide_border=true&theme=transparent&cache_seconds=1800" alt="shader-pack" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ff0l1&repo=shader-pack&hide_border=true&theme=transparent&cache_seconds=1" alt="shader-pack" />
 </a>
 
 <br/>
