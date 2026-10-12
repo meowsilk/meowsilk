@@ -16,13 +16,13 @@ I write native tools and the pieces around them.
 &nbsp;&nbsp;&nbsp;
 <img src="assets/windows.svg" width="36" height="36" alt="Windows" />
 &nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/ff0l">
+<a href="https://discord.com/users/meowsilk">
   <img src="assets/discord.svg" width="36" height="36" alt="Discord" />
 </a>
 
 <br/><br/>
 
-**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; Discord `ff0l2`
+**C++** &nbsp;·&nbsp; **Win32** &nbsp;·&nbsp; **ui/ux** &nbsp;·&nbsp; Discord `ff0l2` and `meowsilk`
 
 <br/>
 
